@@ -1,0 +1,12 @@
+[
+    { "img": "./style/img/Anh (1).jpg", "msg": "Chúc người dễ thương trước màn hình, từ nay cho mãi về sau luôn tràn ngập hạnh phúc, vạn điều bình an." },
+    { "img": "./style/img/Anh (2).jpg", "msg": "Mong rằng Quyên đừng quá khắc khe với bản thân, đừng hoài nghi chính mình." },
+    { "img": "./style/img/Anh (3).jpg", "msg": "Mong rằng Quyên không buồn quá nhiều, không một mình gánh vác mọi công việc nữa" },
+    { "img": "./style/img/Anh (4).jpg", "msg": "Mong Quyên nhớ luôn phải giữ sức khỏe cho chính mình, nhớ luôn giữ được nụ cười tươi trên môi và nhớ là có người vẫn luôn ở sau chờ Quyên" },
+    { "img": "./style/img/Anh (5).jpg", "msg": "Chúc rằng mọi việc Quyên làm đều sẽ được thành công như ý muốn" },
+    { "img": "./style/img/Anh (6).jpg", "msg": "Mong rằng mọi điều tốt đẹp nhất trên thế gian này sẽ đến với Quyên." },
+    { "img": "./style/img/Anh (7).jpg", "msg": "Mong rằng mọi việc Quyên làm đều không phải gồng gánh một mình." },
+    { "img": "./style/img/Anh (8).jpg", "msg": "Chúc Quyên sẽ luôn gặp được những người bạn tốt" },
+    { "img": "./style/img/Anh (9).jpg", "msg": "Chúc Quyên học tập thật tốt, vào ngành mình thích và đỗ được nguyện vọng một" },
+    { "img": "./style/img/Anh (10).jpg", "msg": " Mong vậy, chúc Quyên  ❤️" }
+]

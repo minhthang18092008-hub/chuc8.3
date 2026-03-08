@@ -1,0 +1,12 @@
+[
+    { "img": "./style/img/Anh (1).jpg", "msg": "Chào một người rất dễ thương và có nụ cười rất xinh trước màn hình nha" },
+    { "img": "./style/img/Anh (2).jpg", "msg": "Cũng chẳng nghĩ mình sẽ may mắn khi được gặp một người như vậy" },
+    { "img": "./style/img/Anh (3).jpg", "msg": "Sự xuất hiện của Quyên đã cho Thắng rất nhiều sự thay đổi, bớt nhút nhát như trước nữa và cũng bớt nghĩ nhiều hơn" },
+    { "img": "./style/img/Anh (4).jpg", "msg": "Những tháng năm gặp gỡ, đồng hành cùng Quyên trong những ngày tuổi xuân học trò thực sự rất quý giá" },
+    { "img": "./style/img/Anh (5).jpg", "msg": "Cảm ơn Quyên vì những điều tốt đẹp mà Quyên mang lại, một cách thần kì nào đó tui thấy bản thân tui khác đi" },
+    { "img": "./style/img/Anh (6).jpg", "msg": "Cũng xin lỗi vì những lúc làm Quyên buồn, cau có, khó chịu hay khó xử do Thắng mang lại" },
+    { "img": "./style/img/Anh (7).jpg", "msg": "Cũng biết là do Thắng nói chuyện với Quyên cũng khó hiểu , như ngôn ngữ trên sao hỏa rớt xuống vậy" },
+    { "img": "./style/img/Anh (8).jpg", "msg": "Bị với Quyên là nhiều, bởi vậy nên Thắng hơi sợ đứng đối diện Quyên nói chuyện " },
+    { "img": "./style/img/Anh (9).jpg", "msg": "Chắc là thấy Thắng kì cục lắm ha, không bình thường nổi, mà cũng có nhiều lúc Thắng cũng chưa hiểu nổi ý Quyên nữa" },
+    { "img": "./style/img/Anh (10).jpg", "msg": "Mà dù sao, dẫu là khoảng khắc nào thì đối với Thắng chúng đều rất quý giá, chắc là vô giá luôn ấy chứ" }
+]
